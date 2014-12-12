@@ -14,6 +14,7 @@ http://www.recruit-lifestyle.co.jp
 - 好きな組み合わせ: Golang/Docker/CoreOS/GCE
 - 好きなディストリビューション: Debian, Ubuntu
 - 使ってるシェル: zsh
+- このスライドもGolangを使って作られました
 
 * 課題
 
@@ -144,7 +145,7 @@ _33Fにコンビニがあります_
 
 * 終わった方は
 
-早く終わった方は、アンケートを回答したら、退出可能です。
+早く終わった方は、アンケートに回答終わった方から退出可能です。
 
 .link http://misosi.lu/1day-fall-survey アンケートはこちら
 

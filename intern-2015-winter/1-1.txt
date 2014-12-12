@@ -1,4 +1,4 @@
 POST http://example.com/api/v1/shortenurl
 Content-Type: application/json
 
-{“longUrl”: “http://www.recruit.jp/“}
+{“LongUrl”: “http://www.recruit.jp/“}
