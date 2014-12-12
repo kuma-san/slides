@@ -1,0 +1,5 @@
+{
+ “ShortUrl”: “http://example.com/a84Aued”,
+ “Created”: “1417457325”,
+ “LongUrl”: “http://www.recruit.jp/“
+}

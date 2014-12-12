@@ -1,0 +1,12 @@
+HTTP/1.1 308 Moved Permanently
+Content-Type: text/html; charset=UTF-8
+
+<HTML>
+<HEAD>
+<TITLE>Moved Permanently</TITLE>
+</HEAD>
+<BODY>
+<H1>Moved Permanently</H1>
+The document has moved <A HREF="http://www.recruit.co.jp/">here</A>.
+</BODY>
+</HTML>
