@@ -1,5 +1,6 @@
 HTTP/1.1 308 Permanent Redirect
 Content-Type: text/html; charset=UTF-8
+Location: http://www.recruit.co.jp/
 
 <HTML>
 <HEAD>
