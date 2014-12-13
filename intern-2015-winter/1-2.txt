@@ -1,3 +1,3 @@
-curl http://example.com/v1/shortenurl \
+curl http://example.com/api/v1/shortenurl \
   -H 'Content-Type: application/json' \
   -d '{"LongUrl": "http://www.recruit.jp/"}'
